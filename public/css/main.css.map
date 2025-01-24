@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/irisd/tiamkere/experimental",
+	"sourceRoot": "C:/Users/irisd/tiamkere/tiams_blog",
 	"sources": [
 		"themes/nostyleplease/assets/css/main.scss"
 	],
