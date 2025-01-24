@@ -32,8 +32,8 @@
 
 [params]
   [params.theme_config]
-    appearance        = "light"
-    back_home_text    = ".."
+    appearance        = "green"
+    back_home_text    = "<< go back"
     date_format       = "2006-01-02"
     isListGroupByDate = false
     isShowFooter      = true

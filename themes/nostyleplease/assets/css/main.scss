@@ -59,13 +59,26 @@
   @include theme(#ffffff, #000000, #595959, #3548cf, #8f0075, #dae5ec); // modus-operandi
 }
 
-@mixin other-appearance {
-  @include theme(#552B72, #AAA839, #595959, #3548cf, #8f0075, #dae5ec); // manually added
+//colours https://paletton.com/#uid=74E0u0kldlmaAvZfVqCqsg5vOaL
+@mixin purple-appearance {
+  @include theme(#552B72, #D8F0A0, #D4D26B, #C785AE, #a6628c, #9576AB); // manually added
+}
+
+//colours https://coolors.co/5dfdcb-7cc6fe-f4faff-00451b-8789c0
+@mixin green-appearance {
+  @include theme(#00451b, #f4faff, #8789c0, #7cc6fe, #3E83B8, #008633); // manually added
+}
+
+//colours https://coolors.co/fffaff-d8315b-1e1b18-1c6e8c-0affed
+@mixin black-appearance {
+  @include theme(#1e1b18, #FFFAFF, #0affed, #d8315b, #d8315b, #1c6e8c); // manually added
 }
 
 body[a="dark"] { @include dark-appearance; }
 body[a="light"] { @include light-appearance; }
-body[a="other"] { @include other-appearance; } // manually added
+body[a="purple"] { @include purple-appearance; } // manually added
+body[a="green"] { @include green-appearance; } // manually added
+body[a="black"] { @include black-appearance; } // manually added
 
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
