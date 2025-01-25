@@ -1,9 +1,9 @@
 +++
 title =  ""
-date = 2022-08-25T21:30:04+08:00
+date = 2025-01-25T21:30:04+08:00
 draft = false
 +++
 
-## this is a changed front page
+### This is a blog. 
 
-it contains content and such. 
+It contains text posts and things. Occasionally, it will contain other media. 

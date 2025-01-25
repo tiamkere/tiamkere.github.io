@@ -1,2 +1,2 @@
-This is footer.
-You can edit this in ../nostyleplease/layouts/footer.md
+
+###### Tiamkere 2025. Blog theme adapted from [nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease).

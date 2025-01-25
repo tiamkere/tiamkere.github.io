@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tiam&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Tiam&#39;s Blog</description>
+    <title>Mol Ohep on Tiam&#39;s Blog</title>
+    <link>http://localhost:1313/mol-ohep/</link>
+    <description>Recent content in Mol Ohep on Tiam&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jan 2025 12:54:33 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mol-ohep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Private Jakalla/Mol Ohep Jakalla</title>
       <link>http://localhost:1313/mol-ohep/2025-01-25-intro/</link>
       <pubDate>Sat, 25 Jan 2025 12:54:33 +0100</pubDate>
       <guid>http://localhost:1313/mol-ohep/2025-01-25-intro/</guid>
       <description>&lt;p&gt;Sandboxing is fun! It means that I can prep scenarios to my heart&amp;rsquo;s content and let my players loose in them, without worrying about things like &amp;ldquo;narrative structure&amp;rdquo; or &amp;ldquo;plot&amp;rdquo; or &amp;ldquo;game balance&amp;rdquo;. Since I love nothing more than making up webs of intrigue, and nothing less than figuring out how many HD of skeletons is a reasonable amount, sandbox campaigns are a platonic ideal.&lt;/p&gt;&#xA;&lt;p&gt;So the new year&amp;rsquo;s new campaign is a sandbox campaign set in &lt;code&gt;Mol Ohep&lt;/code&gt;, a big capitol on the Mollian coast. Mol Ohep is your standard intriguing capitol: densely populated, ages old,  built on former ruins of itself. Sea to the west, plains to the north, mountains to the east; PC&amp;rsquo;s in the middle of it all trying to take advantage of the upcoming mayoral election.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hello! I&amp;rsquo;m Tiam. I play TTRPGs. Occasionally I know what I&amp;rsquo;m doing.&lt;/p&gt;&#xA;&lt;p&gt;15% of the reason this blog was made was to host TTRPG stuff. The other 85% of the reason is to see if I could do it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
