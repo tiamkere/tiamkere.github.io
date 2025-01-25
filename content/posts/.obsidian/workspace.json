@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-first-post.md",
+                "file": "about-me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my-first-post"
+              "title": "about-me"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my-first-post.md",
+                "file": "about-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for my-first-post"
+              "title": "Backlinks for about-me"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my-first-post.md",
+                "file": "about-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from my-first-post"
+              "title": "Outgoing links from about-me"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my-first-post.md"
+                "file": "about-me.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of my-first-post"
+              "title": "Outline of about-me"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "069aa01e4cc93bae",
   "lastOpenFiles": [
-    "Untitled.md",
     "my-first-post.md",
+    "about-me.md",
+    "Untitled.md",
     "templates/Blog Post.md",
     "templates"
   ]

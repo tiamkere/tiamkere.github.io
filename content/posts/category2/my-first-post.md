@@ -1,7 +1,7 @@
 +++
 date = '2025-01-24T12:54:33+01:00'
-draft = true
-title = 'actually my second post, probably'
+draft = false
+title = 'My First Post'
 +++
 
 # Hello world

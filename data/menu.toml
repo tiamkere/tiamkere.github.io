@@ -13,7 +13,7 @@ title = "info"
 title = "all posts"
 
   [entries.post_list]
-  limit = 5
+  limit = 10
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
@@ -21,11 +21,30 @@ title = "all posts"
 [[entries]]
 title = "posts by category"
 
-  [entries.post_list]
-  section = "posts"
-  show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "posts"
+  [[entries.entries]]
+    title = "blog posts"
+
+    [entries.entries.post_list]
+    section = "posts"
+    limit = 5
+    show_more = true
+    show_more_text = "See more blog posts..."
+    show_more_url = "posts"
+
+
+  [[entries.entries]]
+    title = "example posts"
+
+    [entries.entries.post_list]
+    section = "examples"
+    limit = 5
+    show_more = true
+    show_more_text = "See more examples..."
+    show_more_url = "examples"
+
+  [[entries.entries]]
+  title = "entry 2"
+
 
 [[entries]]
 title = "rss"
