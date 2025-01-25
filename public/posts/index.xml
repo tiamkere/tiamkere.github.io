@@ -6,7 +6,14 @@
     <description>Recent content on Tiam&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 12:54:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>actually my second post, probably</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 24 Jan 2025 12:54:33 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;&#xA;&lt;p&gt;posting posting posting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;bold text&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/images/screenshot-both.png&#34; alt=&#34;an image, perhaps?&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
