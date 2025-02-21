@@ -6,8 +6,22 @@
     <description>Recent content in Mol Ohep on Tiam&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2025 12:54:33 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 00:54:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/mol-ohep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of the Jakalla Map II</title>
+      <link>http://localhost:1313/mol-ohep/2025-01-31-analysis-ii/</link>
+      <pubDate>Fri, 31 Jan 2025 00:54:33 +0100</pubDate>
+      <guid>http://localhost:1313/mol-ohep/2025-01-31-analysis-ii/</guid>
+      <description>&lt;p&gt;This is part 3 of my mucking about with DysonLogo&amp;rsquo;s &lt;a href=&#34;https://dysonlogos.blog/maps/my-private-jakalla/&#34;&gt;My Private Jakalla&lt;/a&gt; map. I&amp;rsquo;ve figured out how I want to position the map beneath my city, Mol Ohep. Next, I want to try and figure out what rooms are in what piecewise maps and where the big factions are.&lt;/p&gt;&#xA;&lt;p&gt;So I went ahead and divided the map into its piecewise components. We can see that they are not square and not in a grid (shout-out especially to 1L). Making this composite map must&amp;rsquo;ve been a bunch of work!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keyed Map K</title>
+      <link>http://localhost:1313/mol-ohep/2025-04-02-keyed_map_k/</link>
+      <pubDate>Fri, 31 Jan 2025 00:54:33 +0100</pubDate>
+      <guid>http://localhost:1313/mol-ohep/2025-04-02-keyed_map_k/</guid>
+      <description>&lt;h2 id=&#34;K1&#34;&gt;K1. Northern Sewer Passage&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Rushing waist-high wastewater flows south towards an intersection. The brick walls are green with algae and the air is warm with stink.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rushing water:&lt;/strong&gt; The noise of the water flow and echo of the PC&amp;rsquo;s movement drowns out most other noises.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sewage:&lt;/strong&gt; The wastewater is non-potable. Because it is sewage.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Physical Save:&lt;/em&gt; A creature that drinks the water or enters it with open wounds must succeed on a Physical save or contract Brown Rot (ELEPHANT: link!)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Exits:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Analysis of the Jakalla Map</title>
       <link>http://localhost:1313/mol-ohep/2025-01-25-analysis/</link>

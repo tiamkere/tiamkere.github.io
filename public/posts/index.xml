@@ -6,7 +6,14 @@
     <description>Recent content on Tiam&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 12:54:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why should dungeons have factions?</title>
+      <link>http://localhost:1313/posts/2025-02-04-why-factions/</link>
+      <pubDate>Tue, 04 Feb 2025 12:54:33 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025-02-04-why-factions/</guid>
+      <description>&lt;p&gt;Question mark?&lt;/p&gt;&#xA;&lt;p&gt;It occurred to me only after writing up &lt;a href=&#34;http://localhost:1313/mol-ohep/2025-01-31-analysis-ii/&#34;&gt;Analysis of the Jakalla Map II&lt;/a&gt; that I sort of naturally assumed dungeons should have factions. I&amp;rsquo;m 100% confident that I&amp;rsquo;ve read this somewhere, and it seems intuitively right. But why? And what should they do? I&amp;rsquo;ll first try to give my own answer, probably based on half-remembered blog posts, and then try to give due credit by discussing what other people have said.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
